@@ -1,0 +1,26 @@
+位于分支 master
+尚未暂存以备提交的变更：
+  （使用 "git add/rm <文件>..." 更新要提交的内容）
+  （使用 "git restore <文件>..." 丢弃工作区的改动）
+        修改：     aiGuider_Server/app/services/ar/langgraph_agent/graph/__init__.py
+        修改：     aiGuider_Server/app/services/ar/langgraph_agent/graph/graph.py
+        修改：     aiGuider_Server/app/services/ar/langgraph_agent/graph/nodes.py
+        修改：     aiGuider_Server/app/services/ar/langgraph_agent/graph/state.py
+        修改：     aiGuider_Server/app/services/ar/langgraph_agent/llms/qwen.py
+        修改：     aiGuider_Server/app/services/ar/langgraph_agent/main.py
+        修改：     aiGuider_Server/app/services/ar/langgraph_agent/prompts/__init__.py
+        修改：     aiGuider_Server/app/services/ar/langgraph_agent/prompts/templates.py
+        删除：     aiGuider_Server/app/services/ar/langgraph_agent/prompts/tour_guide.py
+        修改：     aiGuider_Server/app/services/ar/langgraph_agent/tools/__init__.py
+        删除：     aiGuider_Server/app/services/ar/langgraph_agent/tools/image_analyzer.py
+        删除：     aiGuider_Server/app/services/ar/langgraph_agent/tools/knowledge_retriever.py
+
+未跟踪的文件:
+  （使用 "git add <文件>..." 以包含要提交的内容）
+        a.patch
+        aiGuider_Server/app/services/ar/langgraph_agent/README.md
+        aiGuider_Server/app/services/ar/langgraph_agent/prompts/system.py
+        aiGuider_Server/app/services/ar/langgraph_agent/prompts/thinker.py
+        aiGuider_Server/app/services/ar/langgraph_agent/tools/knowledge_searcher.py
+
+修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
